@@ -165,7 +165,7 @@ Error generating stack: `+o.message+`
   dalign-items: center;
   display: flex;
   justify-content: center;
-  width: 100vw;
+  min-width: 100vw;
 `,tv={mineGame:"/"},nv=[{component:J(ev,{}),path:tv.mineGame}],rv=({className:e})=>J("div",{className:e}),lv=Wr(rv)`
   display: flex;
   flex-direction: flex-end;
